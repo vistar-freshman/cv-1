@@ -1,4 +1,4 @@
-# CV of Wenli Zhang
+# CV of Jinda Xu
 
 #### Web Front-End Engineer
 
